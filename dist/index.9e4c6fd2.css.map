@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAIA","sources":["index.css"],"sourcesContent":[".new-display{\r\n    display: flex;\r\n    width: 100vw;\r\n}\r\n.bar-graph{\r\n    width: 50%;\r\n}\r\n.line-graph{\r\n    width: 50%;\r\n}"],"names":[],"version":3,"file":"index.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}

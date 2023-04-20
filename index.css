@@ -1,0 +1,10 @@
+.new-display{
+    display: flex;
+    width: 100vw;
+}
+.bar-graph{
+    width: 50%;
+}
+.line-graph{
+    width: 50%;
+}

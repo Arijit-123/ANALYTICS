@@ -1,0 +1,10 @@
+.new-display {
+  width: 100vw;
+  display: flex;
+}
+
+.bar-graph, .line-graph {
+  width: 50%;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
